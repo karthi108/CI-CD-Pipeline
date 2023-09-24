@@ -1,0 +1,7 @@
+Step 1: Create a GitHub Repository
+Step 2: Add GitHub Actions Workflow
+Step 3: Create a Dockerfile
+Step 4: Commit and Push Changes
+Step 5: Set Up Docker Repository
+Step 6: Enable GitHub Actions
+Step 7: Trigger CI/CD
